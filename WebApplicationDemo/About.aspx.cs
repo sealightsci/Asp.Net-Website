@@ -13,5 +13,10 @@ namespace WebApplicationDemo
         {
 
         }
+
+        protected string GetNumberAsString()
+        {
+            return "100";
+        }
     }
 }
